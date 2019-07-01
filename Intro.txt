@@ -7,3 +7,5 @@ Linux terminal is user-interactive. The terminal outputs the results of commands
 Execution of typed command is done only after you press the Enter key.
 
 >>>>>>continue.
+
+>>A new branch was created<<
